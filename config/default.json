@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://narayan123:narayan123@mern-project-imhdo.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "cbc59bbe7f4663fbe1a1",
+  "githubSecret": "778aaedacfc66275755ed085bf90ed41fe62ecb6"
 }
